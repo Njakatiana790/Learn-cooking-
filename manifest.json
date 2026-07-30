@@ -1,0 +1,22 @@
+{
+  "name": "CFHM - Formation Cuisine",
+  "short_name": "Chef CFHM",
+  "description": "Application d'apprentissage cuisine - Formation CFHM. Recettes classiques françaises, techniques de base et assistant IA.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e85d04",
+  "orientation": "any",
+  "scope": ".",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23facc15'/%3E%3Cpath d='M150 280 q0-80 106-80 t106 80 v40 h-212 z' fill='white'/%3E%3Crect x='150' y='320' width='212' height='40' fill='white'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "education"],
+  "prefer_related_applications": false
+}
